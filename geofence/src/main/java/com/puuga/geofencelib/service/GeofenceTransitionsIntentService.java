@@ -1,4 +1,4 @@
-package com.puuga.androidgeofrencedemo.service;
+package com.puuga.geofencelib.service;
 
 import android.app.IntentService;
 import android.app.Notification;

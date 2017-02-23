@@ -1,4 +1,4 @@
-package com.puuga.androidgeofrencedemo.util;
+package com.puuga.geofencelib.util;
 
 import android.app.PendingIntent;
 import android.content.Context;
@@ -16,6 +16,7 @@ import com.google.android.gms.location.LocationServices;
 import com.puuga.androidgeofrencedemo.R;
 import com.puuga.androidgeofrencedemo.geofence.GeofenceErrorMessages;
 import com.puuga.androidgeofrencedemo.service.GeofenceTransitionsIntentService;
+import com.puuga.datastore.util.DataStoreUtil;
 
 import java.util.ArrayList;
 

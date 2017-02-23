@@ -23,7 +23,7 @@
             </intent-filter>
         </activity>
 
-        <service android:name=".service.GeofenceTransitionsIntentService" />
+        <service android:name="com.puuga.geofencelib.service.GeofenceTransitionsIntentService" />
     </application>
 
 </manifest>

@@ -1,4 +1,4 @@
-package com.puuga.androidgeofrencedemo.util;
+package com.puuga.datastore.util;
 
 import android.content.Context;
 

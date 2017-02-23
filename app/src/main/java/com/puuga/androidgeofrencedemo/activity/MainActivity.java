@@ -19,8 +19,8 @@ import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.api.GoogleApiClient;
 import com.google.android.gms.location.LocationServices;
 import com.puuga.androidgeofrencedemo.R;
-import com.puuga.androidgeofrencedemo.util.DataStoreUtil;
-import com.puuga.androidgeofrencedemo.util.GeofenceUtil;
+import com.puuga.datastore.util.DataStoreUtil;
+import com.puuga.geofencelib.util.GeofenceUtil;
 
 public class MainActivity extends AppCompatActivity implements
         View.OnClickListener,
